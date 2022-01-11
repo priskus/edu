@@ -1,2 +1,1 @@
-# edu
-code written in educational purpose
+# most useful and meaningful code examples of educational topics.
