@@ -1,0 +1,3 @@
+C:/Users/Max/CLionProjects/education/progs/game/cmake-build-debug/CMakeFiles/game.dir
+C:/Users/Max/CLionProjects/education/progs/game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Max/CLionProjects/education/progs/game/cmake-build-debug/CMakeFiles/rebuild_cache.dir

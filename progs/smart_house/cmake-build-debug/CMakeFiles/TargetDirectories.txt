@@ -1,0 +1,3 @@
+C:/Users/Max/CLionProjects/education/progs/smart_house/cmake-build-debug/CMakeFiles/smart_house.dir
+C:/Users/Max/CLionProjects/education/progs/smart_house/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Max/CLionProjects/education/progs/smart_house/cmake-build-debug/CMakeFiles/rebuild_cache.dir

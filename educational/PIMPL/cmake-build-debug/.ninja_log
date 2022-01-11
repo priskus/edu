@@ -1,0 +1,8 @@
+# ninja log v5
+5	535	6614760504541643	CMakeFiles/PIMPL.dir/main.cpp.obj	2233df96819f04
+1	441	6614735669730355	CMakeFiles/PIMPL.dir/myclass.cpp.obj	88c5900657e20ce2
+0	207	6615197643657484	build.ninja	b44a1f1e07a01f9
+12	453	6614735669890143	CMakeFiles/PIMPL.dir/myclassimpl.cpp.obj	732292dcdf00ff9f
+14	478	6614761034883855	CMakeFiles/PIMPL.dir/src/myclassimpl.cpp.obj	e157316a260047c0
+478	577	6614761035861231	PIMPL.exe	80ccbddb4ce633cd
+2	474	6614761034824270	CMakeFiles/PIMPL.dir/src/myclass.cpp.obj	2a4f9cbf3a5a6603
