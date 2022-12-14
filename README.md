@@ -1,6 +1,7 @@
 # most useful and meaningful code examples of educational topics.
 
 ## content new
+## in main added
 
 1. [Educational](https://github.com/priskus/edu/tree/main/educational) code written during studying C++ chapters
 2. Standard [algorithm](https://github.com/priskus/edu/tree/main/algorithms) code examples
