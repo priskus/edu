@@ -1,3 +1,4 @@
 first commit of feature
 second commit of feature
 third commit of feature
+fourth commit of feature
