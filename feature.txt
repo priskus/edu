@@ -1,4 +1,1 @@
-void feature three
-else one more line
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-main added text
+last commit of feature
